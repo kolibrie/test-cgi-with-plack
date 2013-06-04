@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62811075"
-     inkscape:cx="372.04724"
-     inkscape:cy="526.18109"
+     inkscape:zoom="0.27"
+     inkscape:cx="2142.2736"
+     inkscape:cy="1182.9166"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="1598"
      inkscape:window-height="876"
@@ -608,6 +608,16 @@
        id="path3576"
        d="m 3015.1195,-603.97116 0,29.5"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker4562)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker4562);display:inline"
+       d="m 3867.6378,-609.13776 0,18.66651"
+       id="path10400"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect8844"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#rect8850"
+       inkscape:connection-end-point="d4" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1440,6 +1450,34 @@
        width="381.33328"
        id="rect3654"
        style="fill:#afafaf;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       style="fill:#bfbfbf;fill-opacity:1;stroke:none;display:inline"
+       id="rect8844"
+       width="381.33328"
+       height="628.66669"
+       x="3676.9712"
+       y="-1237.8044" />
+    <rect
+       style="fill:#cfcfcf;fill-opacity:1;stroke:none;display:inline"
+       id="rect8846"
+       width="365.33331"
+       height="400.66669"
+       x="3684.9712"
+       y="-1230.4712" />
+    <rect
+       style="fill:#dfdfdf;fill-opacity:1;stroke:none;display:inline"
+       id="rect8848"
+       width="344"
+       height="175.33333"
+       x="3695.6377"
+       y="-1221.1378" />
+    <rect
+       style="fill:#afafaf;fill-opacity:1;stroke:none;display:inline"
+       id="rect8850"
+       width="381.33328"
+       height="82.000023"
+       x="3676.9712"
+       y="-590.47125" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1670,6 +1708,62 @@
          x="2667.8423"
          id="tspan3676"
          sodipodi:role="line">App</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3867.4307"
+       y="-553.47131"
+       id="text8852"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan8854"
+         x="3867.4307"
+         y="-553.47131">Tests</tspan><tspan
+         sodipodi:role="line"
+         x="3867.4307"
+         y="-533.47131"
+         id="tspan8856">Coderef</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3867.3345"
+       y="-708.13794"
+       id="text8858"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan8860"
+         x="3867.3345"
+         y="-708.13794">Plack</tspan><tspan
+         sodipodi:role="line"
+         x="3867.3345"
+         y="-688.13794"
+         id="tspan8862">Callback</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3868.1228"
+       y="-918.80463"
+       id="text8864"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan8866"
+         x="3868.1228"
+         y="-918.80463">Wrapped</tspan><tspan
+         sodipodi:role="line"
+         x="3868.1228"
+         y="-898.80463"
+         id="tspan8868">App</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3867.8423"
+       y="-1124.8046"
+       id="text8870"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan8872"
+         x="3867.8423"
+         y="-1124.8046">App</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2068,6 +2162,30 @@
        id="path3704"
        d="m 2786.7127,-630.47116 0,56"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker4562)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker4562)"
+       d="m 3748.5631,-680.47116 0,-56"
+       id="path8876"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker4562)"
+       d="m 3748.5631,-786.47116 0,-56"
+       id="path8878"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker4562)"
+       d="m 3986.7128,-842.47116 0,56"
+       id="path8896"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker4562)"
+       d="m 3986.7128,-736.47116 0,56"
+       id="path8898"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:label="Request Path"
@@ -2669,6 +2787,38 @@
        width="80"
        id="rect3734"
        style="fill:#0000d0;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       style="fill:#0000d0;fill-opacity:1;stroke:none"
+       id="rect8904"
+       width="80"
+       height="50"
+       x="3708.5627"
+       y="-786.47125" />
+    <rect
+       style="fill:#0000d0;fill-opacity:1;stroke:none"
+       id="rect8914"
+       width="80"
+       height="50"
+       x="3946.7126"
+       y="-786.47125" />
+    <rect
+       style="fill:#00d000;fill-opacity:1;stroke:none"
+       id="rect8916"
+       width="80"
+       height="50"
+       x="3708.5627"
+       y="-680.47125"
+       rx="20"
+       ry="20" />
+    <rect
+       style="fill:#00d000;fill-opacity:1;stroke:none"
+       id="rect8928"
+       width="80"
+       height="50"
+       x="3946.7126"
+       y="-680.47125"
+       rx="20"
+       ry="20" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3479,6 +3629,58 @@
          y="-538.89423"
          x="2786.3777"
          sodipodi:role="line">Object</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3748.5862"
+       y="-763.44525"
+       id="text8958"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan8960"
+         x="3748.5862"
+         y="-763.44525">PSGI</tspan><tspan
+         sodipodi:role="line"
+         x="3748.5862"
+         y="-749.44525"
+         id="tspan8962">env</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3748.9551"
+       y="-651.89423"
+       id="text8964"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan8966"
+         x="3748.9551"
+         y="-651.89423">to_psgi()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3986.5176"
+       y="-764.81024"
+       id="text8994"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan8996"
+         x="3986.5176"
+         y="-764.81024">PSGI</tspan><tspan
+         sodipodi:role="line"
+         x="3986.5176"
+         y="-750.81024"
+         id="tspan8998">response</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="3987.1047"
+       y="-651.87323"
+       id="text9000"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan9002"
+         x="3987.1047"
+         y="-651.87323">from_psgi()</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4020,6 +4222,27 @@
        width="348.7793"
        id="rect4902"
        style="fill:none;stroke:#000000;stroke-width:4.35974169;stroke-opacity:1;display:inline" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:13.17795944;stroke-opacity:1"
+       id="rect9010"
+       width="1011.822"
+       height="823.82208"
+       x="3406.5889"
+       y="-1278.0488" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:7.2651763;stroke-opacity:1;display:inline"
+       id="rect9038"
+       width="581.21399"
+       height="435.91049"
+       x="3577.0308"
+       y="-1051.7689" />
+    <rect
+       y="-951.76892"
+       x="3577.0308"
+       height="435.91049"
+       width="581.21399"
+       id="rect11545"
+       style="fill:none;stroke:#000000;stroke-width:7.2651763;stroke-opacity:1;display:inline" />
   </g>
   <script
      id="sozi-script"
@@ -4495,4 +4718,56 @@
      ns1:transition-profile="linear"
      ns1:transition-path-hide="true"
      id="frame9767" />
+  <ns1:frame
+     ns1:refid="rect3814"
+     ns1:title="Request Path and Code Path"
+     ns1:sequence="40"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="immediate-middle"
+     ns1:transition-path-hide="true"
+     id="frame1702" />
+  <ns1:frame
+     id="frame1751"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="immediate-middle"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:sequence="38"
+     ns1:title="Plack Callback Components"
+     ns1:refid="rect9038" />
+  <ns1:frame
+     ns1:refid="rect11545"
+     ns1:title="Callback Passed to Tests Coderef"
+     ns1:sequence="39"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="strong-accelerate-decelerate"
+     ns1:transition-path-hide="true"
+     id="frame2126" />
+  <ns1:frame
+     id="frame2374"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="strong-accelerate-decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:sequence="37"
+     ns1:title="App and Tests to test_psgi"
+     ns1:refid="rect3618" />
 </svg>
